@@ -37,5 +37,5 @@ public class EditorView extends Constants{
 		for (Block b:this.blocks){
 			b.draw(g);
 		}
-	}x
+	}
 }
